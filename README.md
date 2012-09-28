@@ -1,7 +1,7 @@
 strobo.js
 =========
 
-Just a testcase. Lib will coming soon...
+Just a testcase. Lib will coming soon... on a rainy day
 
 ## Demo
 https://c9.io/zsitro/strobo_js/workspace/experiment.html
